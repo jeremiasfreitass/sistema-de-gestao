@@ -1,5 +1,4 @@
-
-/*package med.voll.api.paciente;
+package med.voll.api.paciente;
 
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.Email;
@@ -16,5 +15,3 @@ public record DadosCadastroPaciente(
         @NotNull @Valid DadosEndereco endereco
 ) {
 }
-
- */
