@@ -5,5 +5,6 @@ public enum Especialidade {
     CARDIOLOGIA,
     GINECOLOGIA,
     DENTISTA,
+    PEDIATRA,
     DERMATOLOGIA;
 }
